@@ -1,0 +1,7 @@
+
+Rsquid:S1068"1Remove this unused "mElementUtils" private field.(ì¶¬Æüÿÿÿÿ8Şâ·¸ñ-
+}squid:S1450"\Remove the "mElementUtils" field and declare it as a local variable in the relevant methods.(ì¶¬Æüÿÿÿÿ8¬÷¹¸ñ-
+Fsquid:S1068"*Remove this unused "mFiler" private field.(ñ‘œ8Şâ·¸ñ-
+qsquid:S1450"URemove the "mFiler" field and declare it as a local variable in the relevant methods.(ñ‘œ8¬÷¹¸ñ-
+Fsquid:S00108")Either remove or fill this block of code.(ø¤áÆ8  »¸ñ-
+Hsquid:S1481",Remove this unused "element" local variable.(ø¤áÆ8  »¸ñ-
